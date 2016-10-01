@@ -1,6 +1,6 @@
 {
   "name": "slash-to-dots",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Replaces all slashes to dots in a string",
   "main": "index.js",
   "scripts": {
