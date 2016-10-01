@@ -1,0 +1,27 @@
+{
+  "name": "slash-to-dots",
+  "version": "0.0.0",
+  "description": "Replaces all slashes to dots in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/slash-to-dots.git"
+  },
+  "keywords": [
+    "string",
+    "slash",
+    "dots"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/slash-to-dots/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/slash-to-dots#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
